@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: type mismatch. The `printNumber` function is defined to accept a number, but a string is passed as an argument. TypeScript's type system catches this error during compilation, preventing runtime issues.
